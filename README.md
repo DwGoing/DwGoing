@@ -11,6 +11,6 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Dwgoing&show_icons=true)
+[![DwGoing's github stats](https://github-readme-stats.vercel.app/api?username=Dwgoing)](https://github.com/anuraghazra/github-readme-stats)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

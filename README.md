@@ -1,6 +1,6 @@
 ### DwGoing
 
-[<img src="https://github.com/Dwgoing/Dwgoing/raw/master/resources/netcore.png" alt="v logo" width="30">]()  [<img src="https://github.com/Dwgoing/Dwgoing/raw/master/resources/python.png" alt="v logo" width="30">]() [<img src="https://github.com/Dwgoing/Dwgoing/raw/master/resources/cpp.png" alt="v logo" width="30">]()
+[<img src="https://github.com/Dwgoing/Dwgoing/raw/master/resources/netcore.png" width="30">]()  [<img src="https://github.com/Dwgoing/Dwgoing/raw/master/resources/python.png" width="30">]() [<img src="https://github.com/Dwgoing/Dwgoing/raw/master/resources/cpp.png" width="30">]() [<img src="https://github.com/Dwgoing/Dwgoing/raw/master/resources/javascript.png" width="30">]()
 
 -  **Position: Technical Supervisor**
 -  **Company: EWELL TECHNOLOGY Co., LTD**

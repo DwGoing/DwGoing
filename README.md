@@ -1,7 +1,7 @@
 ### DwGoing
 
--  **Learning :** .Net Development
--  **Languages :** .Net Core, Python, C++, JavaScript, Dart
+-  **.Net Development**
+-  **Languages :** [<img src="resources/netcore.png" alt="v logo" width="30">]() | [<img src="resources/python.png" alt="v logo" width="36">]()
 
 [![DwGoing's github stats](https://github-readme-stats.vercel.app/api?username=Dwgoing)](https://github.com/anuraghazra/github-readme-stats)
 

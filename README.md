@@ -6,7 +6,6 @@
 
 -  **Position: R&D Supervisor**
 -  **Company: EWELL TECHNOLOGY Co., LTD**
--  **6年开发经验 3年团队管理**
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=DwGoingJiang&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 

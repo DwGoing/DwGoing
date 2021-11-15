@@ -2,5 +2,5 @@
 
 [<img src="https://github.com/Dwgoing/Dwgoing/raw/master/resources/git.png" width="30">](#) [<img src="https://github.com/Dwgoing/Dwgoing/raw/master/resources/docker.png" width="30">](#) [<img src="https://github.com/Dwgoing/Dwgoing/raw/master/resources/linux.png" width="30">](#)
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=DwGoingJiang&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=Dwgoing&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
